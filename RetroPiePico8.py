@@ -1,6 +1,6 @@
 # import pico8.tool
 # print(pico8.tool.main(orig_args=['listlua','poom_1.7.p8.png']))
-import argparse, os, lxml
+import argparse, io, os, lxml
 from lxml.etree import ElementTree
 from lxml.etree import Element
 from lxml.etree import SubElement
@@ -27,6 +27,5 @@ for file in files:
         gameImage = SubElement(game, 'image')
         gameImage.text = relativeFile
 lxml.etree.indent(et.getroot(), space='\t')
-text_file = open(filename, 'wt')
-n = text_file.write(lxml.etree.tostring(et, encoding='unicode', pretty_print=True))
-text_file.close()
+with io.open(filename, "w", encoding="utf-8") as f:
+    f.write(lxml.etree.tostring(et, encoding='unicode', pretty_print=True))
