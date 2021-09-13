@@ -189,6 +189,7 @@ cython_debug/
 
 !p8logo.png
 !p8logo_dark.png
+!p8logo_best.png
 gamelist.xml
 pico-*_raspi.zip
 pico8/
