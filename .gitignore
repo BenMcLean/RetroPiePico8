@@ -186,3 +186,6 @@ cython_debug/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,python,pico8,visualstudiocode
+
+!p8logo.png
+!p8logo_dark.png
