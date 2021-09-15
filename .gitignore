@@ -187,9 +187,9 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,python,pico8,visualstudiocode
 
-!p8logo.png
-!p8logo_dark.png
-!p8logo_best.png
+!pico8.png
+!pico81px.png
+!system.png
 gamelist.xml
 pico-*_raspi.zip
 pico8/
