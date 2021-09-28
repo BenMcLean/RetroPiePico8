@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="88px"
+   version="1.1"
+   width="88px"
+   id="svg12"
+   sodipodi:docname="controller.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5.4090909"
+     inkscape:cx="43.907563"
+     inkscape:cy="43.907563"
+     inkscape:window-width="1280"
+     inkscape:window-height="659"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs2" />
+  <path
+     style="color:#000000;fill:#f4f4f4;fill-rule:evenodd;-inkscape-stroke:none"
+     d="m 15.75,11.75 v 4 h -4 v 56.5 h 4 v 4 h 20.5 v -4 h 3.5 v 4 h 20.5 V 76 72.25 h 4 v -4 h 4 v -16 h 4 v -4 h 4 v -20.5 h -8 v -12 h -4 v -4 z m 0.5,0.5 h 47.5 v 4 h 4 v 12 h 8 v 19.5 h -4 v 4 h -4 v 16 h -4 v 4 h -4 v 4 h -19.5 v -4 h -4.5 v 4 h -19.5 v -4 h -4 v -55.5 h 4 z m 3.5,3.5 v 4 h -4 v 48.5 h 4 v 4 h 12.5 v -4 h 11.5 v 4 h 12.5 V 72 68.25 h 4 v -4 h 4 v -16 h 4 v -4 h 4 v -12.5 h -4.5 v 12 h -3.5 v -24 h -4 v -4 z m 0.5,0.5 h 39.5 v 4 h 4 v 24 h 4 v 3.5 h -4 v 16 h -4 v 4 h -4 v 4 h -11.5 v -4 h -12.5 v 4 h -11.5 v -4 h -4 v -47.5 h 4 z m -0.5,11.5 v 20.5 h 36.5 V 48 27.75 Z m 0.5,0.5 h 35.5 v 19.5 h -35.5 z m 7.5,3.5 v 12.5 h 4.5 V 44 31.75 Z m 16,0 v 12.5 h 4.5 V 44 31.75 Z m -15.5,0.5 h 3.5 v 11.5 h -3.5 z m 16,0 h 3.5 v 11.5 h -3.5 z m 24,0 h 3.5 v 11.5 h -3.5 z m -40.5,19.5 v 4.5 h 4 v 4 h 12.5 V 60 56.25 h 4 v -4.5 h -4.5 v 4 h -11.5 v -4 z m 0.5,0.5 h 3.5 v 3.5 h -3.5 z m 16,0 h 3.5 v 3.5 h -3.5 z m -12,4 h 11.5 v 3.5 h -11.5 z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:#f4f4f4;fill-rule:evenodd;-inkscape-stroke:none"
+     d="m 19.75,15.75 v 4.5 h 40.5 V 20 15.75 Z m 0.5,0.5 h 39.5 v 3.5 h -39.5 z m -0.5,7.5 v 4.5 h 36.5 V 28 23.75 Z m 0.5,0.5 h 35.5 v 3.5 h -35.5 z m -4.5,39.5 v 4.5 h 44.5 V 68 63.75 Z m 0.5,0.5 h 43.5 v 3.5 h -43.5 z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:#f4f4f4;fill-rule:evenodd;-inkscape-stroke:none"
+     d="m 15.75,19.75 v 44.5 h 44.5 V 64 19.75 Z m 0.5,0.5 h 43.5 v 43.5 h -43.5 z m 3.5,3.5 v 24.5 h 36.5 V 48 23.75 Z m 0.5,0.5 h 35.5 v 23.5 h -35.5 z m 7.5,27.5 v 4.5 h 4 v 4 h 12.5 V 60 56.25 h 4 v -4.5 h -4.5 v 4 h -11.5 v -4 z m 0.5,0.5 h 3.5 v 3.5 h -3.5 z m 16,0 h 3.5 v 3.5 h -3.5 z m -12,4 h 11.5 v 3.5 h -11.5 z"
+     id="path8" />
+  <path
+     style="color:#000000;fill:#f4f4f4;fill-rule:evenodd;-inkscape-stroke:none"
+     d="m 59.75,19.75 v 44.5 h 4.5 V 64 48.25 h 4 v -4 h 4 v -12.5 h -4.5 v 12 h -3.5 v -24 z m 0.5,0.5 h 3.5 v 24 h 4 v 3.5 h -4 v 16 h -3.5 z m -32.5,11.5 v 12.5 h 4.5 V 44 31.75 Z m 16,0 v 12.5 h 4.5 V 44 31.75 Z m -15.5,0.5 h 3.5 v 11.5 h -3.5 z m 16,0 h 3.5 v 11.5 h -3.5 z m 24,0 h 3.5 v 11.5 h -3.5 z m -48.5,35.5 v 4.5 h 12.5 V 72 67.75 Z m 24,0 v 4.5 h 12.5 V 72 67.75 Z m -23.5,0.5 h 11.5 v 3.5 h -11.5 z m 24,0 h 11.5 v 3.5 h -11.5 z"
+     id="path10" />
+</svg>
